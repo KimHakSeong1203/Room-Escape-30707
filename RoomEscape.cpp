@@ -1,3 +1,9 @@
+/*
+개발자 : 김학성, 박민성
+개발일 : 2021.09.08.
+문의   : rmsp0211@gmail.com 
+*/
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
